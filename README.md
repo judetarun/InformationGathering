@@ -59,6 +59,7 @@ https://web.archive.org/
 sudo nc example.com 80
 GET / HTTP/1.1
 Host: example.com
+<img width="1920" height="1080" alt="nc" src="https://github.com/user-attachments/assets/abb3b80b-fde6-4846-8296-fbc0cdfc0ec7" />
 
 
 
@@ -76,7 +77,8 @@ Host: example.com
 
 
 ## httprint
-### output
+## output
+<img width="1920" height="1080" alt="httprint" src="https://github.com/user-attachments/assets/cbd8cfa6-4a13-4b52-a0d5-2ebb039e4094" />
 
 
 
@@ -93,6 +95,7 @@ sudo traceroute -T www.google.com
 ## UDP Traceroute:
 sudo traceroute -U www.google.com
 ## output
+<img width="1141" height="641" alt="tracerouteu" src="https://github.com/user-attachments/assets/9ecba59b-450e-46d0-af91-7882f2b51b02" />
 
 
 
